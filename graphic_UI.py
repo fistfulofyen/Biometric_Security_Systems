@@ -6,7 +6,7 @@ import sys
 import webbrowser
 
 """
-This script defines a graphical user interface (GUI) using the tkinter library for a HomeLand 
+This script defines a graphical user interface (GUI) using the tkinter library for a Biometric 
 Security System. The GUI provides buttons to activate the system, modify the Bio_DataBase script, 
 and check patrol mode recordings. It incorporates functionalities to interact with the Bio_DataBase 
 script, enabling the addition of friend names, new persons, and modifications to the script. Additionally, 
