@@ -23,8 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/yumingzhang1999)
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -248,18 +247,18 @@ Project video Link: [https://www.youtube.com/watch?v=gc4aTQci1kE&t](https://www.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zhant22/biometric_security_system.svg?style=for-the-badge
-[contributors-url]: https://github.com/zhant22/biometric_security_system/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zhant22/biometric_security_system.svg?style=for-the-badge
-[forks-url]: https://github.com/zhant22/biometric_security_system/network/members
-[stars-shield]: https://img.shields.io/github/stars/zhant22/biometric_security_system.svg?style=for-the-badge
-[stars-url]: https://github.com/zhant22/biometric_security_system/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zhant22/biometric_security_system.svg?style=for-the-badge
-[issues-url]: https://github.com/zhant22/biometric_security_system/issues
-[license-shield]: https://img.shields.io/github/license/zhant22/biometric_security_system.svg?style=for-the-badge
-[license-url]: https://github.com/zhant22/biometric_security_system/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[contributors-url]: https://github.com/fistfulofyen/biometric_security_system/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[forks-url]: https://github.com/fistfulofyen/biometric_security_system/network/members
+[stars-shield]: https://img.shields.io/github/stars/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[stars-url]: https://github.com/fistfulofyen/biometric_security_system/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[issues-url]: https://github.com/fistfulofyen/biometric_security_system/issues
+[license-shield]: https://img.shields.io/github/license/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[license-url]: https://github.com/fistfulofyen/biometric_security_system/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/yumingzhang1999
 
 [product-screenshot]: Supplementary/readme_pic/GUI.png
 
