@@ -248,15 +248,15 @@ Project video Link: [https://www.youtube.com/watch?v=gc4aTQci1kE&t](https://www.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/fistfulofyen/biometric_security_system.svg?style=for-the-badge
-[contributors-url]: https://github.com/fistfulofyen/biometric_security_system/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fistfulofyen/biometric_security_system.svg?style=for-the-badge
-[forks-url]: https://github.com/fistfulofyen/biometric_security_system/network/members
-[stars-shield]: https://img.shields.io/github/stars/fistfulofyen/biometric_security_system.svg?style=for-the-badge
-[stars-url]: https://github.com/fistfulofyen/biometric_security_system/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fistfulofyen/biometric_security_system.svg?style=for-the-badge
-[issues-url]: https://github.com/fistfulofyen/biometric_security_system/issues
-[license-shield]: https://img.shields.io/github/license/fistfulofyen/biometric_security_system.svg?style=for-the-badge
-[license-url]: https://github.com/fistfulofyen/biometric_security_system/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/fistfulofyen/biometric_security_systems/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
+[forks-url]: https://github.com/fistfulofyen/biometric_security_systems/network/members
+[stars-shield]: https://img.shields.io/github/stars/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
+[stars-url]: https://github.com/fistfulofyen/biometric_security_systems/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
+[issues-url]: https://github.com/fistfulofyen/biometric_security_systems/issues
+[license-shield]: https://img.shields.io/github/license/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
+[license-url]: https://github.com/fistfulofyen/biometric_security_systems/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yumingzhang1999
 
