@@ -23,7 +23,8 @@ known_face_encodings = [
 ]
 known_face_names = [  #make sure to capitalize only the first letter and lower case for the rest of the name
     "Dylan",
-    "Jackson"
+    "Jackson",
+    "Daren"
     
 ]
 
