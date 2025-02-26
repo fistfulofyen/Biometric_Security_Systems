@@ -85,7 +85,7 @@ while True:
     distance_between_head_and_camera = face_depth_measure.get_distance(video_capture, detector, FOCAL_LENGTH_OF_YOUR_PC)
 
     
-    ret, frame = video_capture.read() # Grab a single frame of video
+    ret, frame = video_capture.read() # Grab a single frame
 
     #--------------------------------------------------------------------------------------------
     # Patrol mode starts here, if a person is in range of DISTANCE_TO_PATROL_MODE from the camera  
