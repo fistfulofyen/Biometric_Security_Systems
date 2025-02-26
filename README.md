@@ -247,7 +247,7 @@ Project video Link: [https://www.youtube.com/watch?v=gc4aTQci1kE&t](https://www.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/fistfulofyen/biometric_security_system.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
 [contributors-url]: https://github.com/fistfulofyen/biometric_security_systems/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/fistfulofyen/biometric_security_systems.svg?style=for-the-badge
 [forks-url]: https://github.com/fistfulofyen/biometric_security_systems/network/members
